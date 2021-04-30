@@ -7,5 +7,7 @@
 - 💬 Ask me about anything.
 - 📫 How to reach me: web.coder.hossain@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Traveling around the world.
+- ⚡ Fun fact: Love to Travel around the world.
 -->
+
+## Tools & Languages I Know:
